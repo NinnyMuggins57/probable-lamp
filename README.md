@@ -44,8 +44,8 @@ Influent is under ongoing development and is freely available for download under
 ```sh
 git clone https://github.com/NinnyMuggins57/probable-lamp.git
 cd docs/
-npm install
-npm start
+jekyll build
+jekyll serve
 ```
 ---
 section: Community 
