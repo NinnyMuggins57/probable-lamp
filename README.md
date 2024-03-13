@@ -1,12 +1,12 @@
 
 ## Edit in browser
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/NinnyMuggins57/probable-lamp/tree/master/pom.xml)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/NinnyMuggins57/probable-lamp/tree/master/docs?file=readme.md)
 ## How to use
 
 ```sh
 git clone https://github.com/NinnyMuggins57/probable-lamp.git
-cd docs/src/
+cd docs/
 npm install
 npm start
 ```
