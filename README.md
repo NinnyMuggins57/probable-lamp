@@ -1,7 +1,7 @@
 
 ## Edit in browser
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/NinnyMuggins57/probable-lamp/tree/master/docs?file=readme.md)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/NinnyMuggins57/probable-lamp/tree/master?file=readme.md)
 ## How to use
 
 ```sh
