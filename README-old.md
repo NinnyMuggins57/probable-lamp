@@ -10,27 +10,27 @@ Service Provider Interfaces (SPIs) provide a plugin style framework for develope
 
 ## Getting Started ##
 
-Documentation on installing, configuring and using Influent is available in the [docs folder](https://github.com/unchartedsoftware/influent/tree/master/docs/src/) in the source code.
+Documentation on installing, configuring and using Influent is available in the [docs folder](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/) in the source code.
 
-- Explore [live demos](http://community.influent.org/demos/) at the Influent web page.
-- Review and install the necessary [prerequisites](http://community.influent.org/community/developer-docs/how-to/installation/#prerequisites) before installing Influent on your machine.
-- Learn how to [build](http://community.influent.org/community/developer-docs/how-to/installation/#install-source-code) Influent from the source code.
+- Explore [live demos](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/demos/) at the Influent web page.
+- Review and install the necessary [prerequisites](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/community/developer-docs/how-to/installation/#prerequisites) before installing Influent on your machine.
+- Learn how to [build](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/community/developer-docs/how-to/installation/#install-source-code) Influent from the source code.
 
 ## Learning More ##
 
-- Review the [Release Notes](https://github.com/unchartedsoftware/influent/blob/master/RELEASE_NOTES.md) to see what's new.
-- Read about the complete [installation and configuration procedures](http://community.influent.org/community/developer-docs/how-to/installation/) for custom Influent deployments.
+- Review the [Release Notes](https://github.com/NinnyMuggins57/probable-lamp/blob/master/RELEASE_NOTES.md) to see what's new.
+- Read about the complete [installation and configuration procedures](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/community/developer-docs/how-to/installation/) for custom Influent deployments.
 - Examine the configuration of the example applications provided with the source code:
-	- [Bitcoin](https://github.com/unchartedsoftware/influent/tree/master/bitcoin/)
-	- [Influent App](https://github.com/unchartedsoftware/influent/tree/master/influent-app/)
-	- [Kiva](https://github.com/unchartedsoftware/influent/tree/master/kiva/)
-	- [Walker](https://github.com/unchartedsoftware/influent/tree/master/walker/)
-- Learn how to [deploy](http://community.influent.org/community/developer-docs/how-to/deployment/) your Influent application to a web server.
-- Browse the [User Guide](http://community.influent.org/docs/user-guide/) to understand how to navigate the user interface and investigate your data.
+	- [Bitcoin](https://github.com/NinnyMuggins57/probable-lamp/tree/master/bitcoin/)
+	- [Influent App](https://github.com/NinnyMuggins57/probable-lamp/tree/master/influent-app/)
+	- [Kiva](https://github.com/NinnyMuggins57/probable-lamp/tree/master/kiva/)
+	- [Walker](https://github.com/NinnyMuggins57/probable-lamp/tree/master/walker/)
+- Learn how to [deploy](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/community/developer-docs/how-to/deployment/) your Influent application to a web server.
+- Browse the [User Guide](https://github.com/NinnyMuggins57/probable-lamp/tree/master/docs/src/community.influent.org/docs/user-guide/) to understand how to navigate the user interface and investigate your data.
 
 ## Contact ##
 
-For support questions, technical suggestions and contributions, please post your feedback to the [GitHub Issues forum](https://github.com/unchartedsoftware/influent/issues) for this project.
+For support questions, technical suggestions and contributions, please post your feedback to the [GitHub Issues forum](https://github.com/NinnyMuggins57/probable-lamp/issues) for this project.
 
 ## License ##
 
