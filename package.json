@@ -1,1 +1,20 @@
 
+{
+  "name": "jekyll",
+  "description": "",
+  "version": "",
+  "repository": "",
+  "license": "",
+  "stackblitz": {
+    "startCommand": "npm start"
+  },
+  "scripts": {
+    "start": "jekyll serve",
+    "build": "jekyll build",
+    "test": "npm run build"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
